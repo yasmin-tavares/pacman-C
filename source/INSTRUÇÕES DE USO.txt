@@ -1,0 +1,37 @@
+O jogo foi desenvolvido com o uso da biblioteca Allegro versão 4.2.1 e para que possa ser executado, a referida biblioteca deverá ter sido instalada na máquina. 
+
+Observação: Jogo desenvolvido exclusivamente para uso desktop (não funciona em dispositivos móveis).
+
+Passos:
+
+Windows:
+1 - Realizar a instalação da biblioteca Allegro, versão 4.2.1 (A biblioteca segue em anexo junto ao trabalho) 
+
+2 - Caso já possua a biblioteca instalada em sua máquina, existem duas opções de execução:
+
+	1 - Existe um arquivo chamado "main.c", este arquivo se refere ao código fonte desenvolvido para a aplicação.
+	    Você poderá executá-lo através da ferramenta de execução de códigos (compilador/interpretador) DevC++, que suporta aplicações
+	    voltadas para a linguagem C e seus derivados. 
+
+	2 - Existe um arquivo denominado "trabalho.exe", é um aplicativo desenvolvido pela própria ferramenta utilizada na construção dos códigos utilizados 
+	    esse arquivo será criado após a primeira execução do código pelo compilador. Nesse ponto, já com a biblioteca instalada, basta 
+	    apenas dar dois cliques no arquivo executável e o jogo irá abrir para você. 
+
+Linux:
+
+1 - Realizar a instalação da biblioteca Allegro, versão 4.2.1:
+	1.1 Download:
+		* https://www.allegro.cc/
+	Observação: atenção para a versão allegro que está instalando! O jogo NÃO irá funcionar corretamente se não instalar a biblioteca correta, allegro 4.2.1 
+		    O site oficial irá encaminha-lo para a versão mais atual (Allegro 5) e o uso desta poderá acarretar em bugs no jogo. 
+
+
+2 - Caso já possua a biblioteca instalada em sua máquina, existem duas opções de execução:
+
+	1 - Existe um arquivo chamado "main.c", este arquivo se refere ao código fonte desenvolvido para a aplicação.
+	    Você poderá executá-lo através da ferramenta de execução de códigos (compilador/interpretador) DevC++, que suporta aplicações
+	    voltadas para a linguagem C e seus derivados.
+
+Observação: Existe um arquivo denominado "trabalho.exe", é um aplicativo desenvolvido pela própria ferramenta  utilizada na construção dos códigos utilizados.
+	    Esse arquivo não roda em sistemas Linux.
+	Não existem complicações para se testar esse programa, basta seguir os dois passos acima e pronto, tudo certo e que os jogos comecem!
